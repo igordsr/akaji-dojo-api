@@ -1,0 +1,48 @@
+IMPORTANTE: COMO PESQUISAR GUIAS DO SPRING:
+spring guide basic authentication
+
+#Tratamento de erros useralizados para APIs rest com Spring Boot.
+https://dev.to/ledsonsilva/tratamento-de-erros-useralizados-para-apis-rest-com-spring-boot-4dpd
+
+#log4j.properties example – Log4j properties file example
+https://howtodoinjava.com/log4j/how-to-configure-log4j-using-properties-file/
+
+#Spring Data JPA - Reference Documentation
+https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference
+
+https://www.devmedia.com.br/persistencia-com-spring-data-jpa/24390w
+
+Uma Kyū (Graduação do karate) tem muitas compentencias
+Uma Competencia está relacionadas a varias Kyū
+
+Um estudante pode ter varias Kyū
++
+Uma Kyū pode ter varios estudantes
+
+Um estudante pode ter muitas conquistas e uma conquista pertence a uma estudante 
+Uma consquista está relacionada a Kyū
+
+
+{
+    "bodyWeight": 86,
+    "bodyHeight": 89,
+    "startDate": "1965-10-01"
+}
+
+
+    // this.student.id = this.route.snapshot.params['id'];
+    // this.subscriptions  = this.studentsService.read(this.student).subscribe();
+    
+    //https://www.youtube.com/watch?v=uQprcZ0FYMw
+    
+    
+https://loading.io/ ou https://loading.io/css
+
+
+Login e segurança no Angular
+https://www.tektutorialshub.com/angular/angular-canactivate-guard-example/
+
+
+https://docs.jboss.org/hibernate/validator/4.1/reference/en-US/html/validator-customconstraints.html#validator-customconstraints-constraintannotation
+
+https://gist.github.com/clairtonluz/0e82a03e8b6c148608f1
